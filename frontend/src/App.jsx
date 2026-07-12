@@ -1,5 +1,7 @@
 import { useEffect, useRef, useState } from "react";
-import data from "./combined.json"; // your new dataset
+import teeth from "./teeth_whitening.json";
+import food from "./food_storage.json";
+import linen from "./linen.json";
 
 export default function App() {
   // All 10 videos from combined.json
